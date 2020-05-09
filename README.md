@@ -25,3 +25,9 @@ https://juliabox.com/
 
 http://www.repl.it  
 
+### Tutorials
+
+Main web site online docs...(includes free and downloadable [.pdf] for offline study)...   
+https://docs.julialang.org/en/v1/  
+
+
