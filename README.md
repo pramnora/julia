@@ -16,7 +16,9 @@ http://www.julialang.org/downloads
 Alternative IDE...  
 https://juliacomputing.com/products/juliapro  
 
-### Run Julia code interactively online...  
+### Run Julia code interactively online... 
+
+https://julialang.org/learning/tryjulia/  
 
 https://juliabox.com/  
 *NOTE*: JuliaBox site is closing down on: 31st May 2020  
