@@ -30,4 +30,16 @@ http://www.repl.it
 Main web site online docs...(includes free and downloadable [.pdf] for offline study)...   
 https://docs.julialang.org/en/v1/  
 
+### Video Tutorials
+
+YouTube: Julia programming language channel  
+https://www.youtube.com/user/JuliaLanguage  
+
+YouTube: Introduction to Julia (2017)    
+https://www.youtube.com/watch?v=4igzy3bGVkQ  
+
+YouTube: Derek Banas: Julia Tutorial  
+https://www.youtube.com/watch?v=sE67bP2PnOo  
+
+
 
