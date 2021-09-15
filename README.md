@@ -41,7 +41,11 @@ Mind you, I'm still a 'beginner' working on learning all of the basics.
              ...as Julia does NOT understand how to read plain [.txt] files?!  
              You might need to save the Notepad file...  
              by, deliberately, stating save as: All Files/  
-             as opposed to the default saving method which is: [.txt].  
+             as opposed to the default saving method which is: [.txt].   
+             
+             Example of how to run Julia program files: [.jl] through using a DOS prompt...  
+             
+>>C:\>julia test01.jl               
   
 
 **NOTE(3):** At the current date: *Wed 15th Sep 2021* I seem to have downloaded Julia version: 1.6.2    
