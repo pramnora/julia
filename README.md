@@ -32,7 +32,9 @@ Mind you, I'm still a 'beginner' working on learning all of the basics.
 **NOTE(1):** When initially setting up the Julia program...make sure to check include in PATH...;   
              otherwise, Windows will NOT be able to find the program  
              when you try running it through DOS   
-             by typing in the keyword: julia.  
+             by typing in the keyword:   
+
+>>C:\>julia    
              
 **NOTE(2):** The file extension for julia program code file is: [.jl];    
              do NOT try saving the file as being called: [.jl.txt]...;   
