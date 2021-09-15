@@ -45,7 +45,10 @@ Mind you, I'm still a 'beginner' working on learning all of the basics.
              
              Example of how to run Julia program files: [.jl] through using a DOS prompt...  
              
->>C:\>julia test01.jl               
+>>C:\>julia test01.jl  
+
+...the DOS command prompt should be pointed to the same directory folder where the file called: [test01.jl] lives...;      
+otherwise, DOS *cannot* find where the program file is...in order to run it, effectively...?!    
   
 
 **NOTE(3):** At the current date: *Wed 15th Sep 2021* I seem to have downloaded Julia version: 1.6.2    
