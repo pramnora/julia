@@ -5,7 +5,7 @@ Julia code repository
 
 ## Introduction
 
-Julia, is a FREE programming language...which can be downloade from here...
+Julia, is a FREE programming language...which can be downloaded from here...
 
 https://www.julialang.org/downloads/   
 
