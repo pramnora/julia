@@ -51,7 +51,9 @@ Mind you, I'm still a 'beginner' working on learning all of the basics.
 otherwise, DOS *cannot* find where the program file is...in order to run it, effectively...?!    
   
 
-**NOTE(3):** At the current date: *Wed 15th Sep 2021* I seem to have downloaded Julia version: 1.6.2    
+**NOTE(3):** At the current date: *Wed 15th Sep 2021* I seem to have downloaded Julia version: 1.6.2      
+
+>>C:\>julia -ver  
 
 -----
 
