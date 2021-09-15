@@ -95,7 +95,7 @@ otherwise, DOS *cannot* find where the program file is...in order to run it, eff
 >># 3 % 2 = 1  
 >># 3 ^ 3 = 27  
 
-### Julia statements, being issued at the command line...
+### Julia variable statements, being issued at the command line...
 
 >>julia> apples = 10.00  
 >>10.0  
