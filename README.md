@@ -31,7 +31,7 @@ Mind you, I'm still a 'beginner' working on learning all of the basics.
              by typing in the keyword: julia.  
              
 **NOTE(2):** The file extension for julia program code file is: [.jl];    
-             do NOT try saving the file as being called: [.js.txt]...;   
+             do NOT try saving the file as being called: [.jl.txt]...;   
              ...as Julia does NOT understand how to read plain [.txt] files?!  
              You might need to save the Notepad file...  
              by, deliberately, stating save as: All Files/  
