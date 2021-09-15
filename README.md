@@ -25,7 +25,8 @@ It's very quick and easy to set up to run inside of Window 10 Pro.
 
 Mind you, I'm still a 'beginner' working on learning all of the basics.  
 
-**NOTE:** Please, carefully, read through the notes below before installing...  
+**NOTE:** Please, carefully, read through the notes below before installing...;    
+          for anyone doing a first installation pay special attention to NOTE(1). -Thanks!  
 
 -----
 
@@ -93,6 +94,22 @@ otherwise, DOS *cannot* find where the program file is...in order to run it, eff
 >># 3 / 3 = 1.0  
 >># 3 % 2 = 1  
 >># 3 ^ 3 = 27  
+
+### Julia statements, at the command line...
+
+>>julia> apples = 10.00  
+>>10.0  
+
+>>julia> potatoes = 5.00  
+>>5.0  
+
+>>julia> carrots = 2.00  
+>>2.0  
+
+>>julia> apples+potatoes+carrots  
+>>17.0  
+
+>>julia>  
 
 -----
 
