@@ -95,7 +95,7 @@ otherwise, DOS *cannot* find where the program file is...in order to run it, eff
 >># 3 % 2 = 1  
 >># 3 ^ 3 = 27  
 
-### Julia statements, at the command line...
+### Julia statements, being issued at the command line...
 
 >>julia> apples = 10.00  
 >>10.0  
@@ -110,6 +110,9 @@ otherwise, DOS *cannot* find where the program file is...in order to run it, eff
 >>17.0  
 
 >>julia>  
+
+**NOTE:** There was no need to use either print()/or, println() to send output to the console screen;    
+          nor was there any need to declare variable types before use...instead, variable typing was, automatically, inferred.   
 
 -----
 
