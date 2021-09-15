@@ -25,6 +25,8 @@ It's very quick and easy to set up to run inside of Window 10 Pro.
 
 Mind you, I'm still a 'beginner' working on learning all of the basics.  
 
+**NOTE:** Please, carefully, read through the notes below before installing...  
+
 -----
 
 ## NOTES
