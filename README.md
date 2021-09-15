@@ -27,8 +27,17 @@ Mind you, I'm still a 'beginner' working on learning all of the basics.
 
 **NOTE(1):** When initially setting up the Julia program...make sure to check include in PATH...;   
              otherwise, Windows will NOT be able to find the program  
-             when you try running it through DOS by typing in the keyword: julia.  
-**NOTE(2):** The file extension for julia program code file is: [.jl]   
+             when you try running it through DOS   
+             by typing in the keyword: julia.  
+             
+**NOTE(2):** The file extension for julia program code file is: [.jl];    
+             do NOT try saving the file as being called: [.js.txt]...;   
+             ...as Julia does NOT understand how to read plain [.txt] files?!  
+             You might need to save the Notepad file...  
+             by, deliberately, stating save as: All Files/  
+             as opposed to the default saving method which is: [.txt].  
+  
+
 **NOTE(3):** At the current date: *Wed 15th Sep 2021* I seem to have downloaded Julia version: 1.6.2    
 
 -----
