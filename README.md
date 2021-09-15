@@ -27,12 +27,6 @@ Mind you, I'm still a 'beginner' working on learning all of the basics.
 
 -----
 
-## My netlify Julia web page...
-
-https://pr-julia.netlify.app/  
-
------
-
 ## Links
 
 Main web site...  
@@ -52,6 +46,10 @@ https://juliabox.com/
 *NOTE*: JuliaBox site is closing down on: 31st May 2020  
 
 http://www.repl.it  
+
+### My netlify Julia web page...  
+
+https://pr-julia.netlify.app/  
 
 ### Tutorials
 
