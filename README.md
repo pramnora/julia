@@ -1,9 +1,29 @@
 # julia
 Julia code repository
 
-Julia, is a FREE programming language which I really like using; though, I honestly must admit, I'm not entirely familiar with all of its commands, yet; but, I'm sure that my understanding is very highly likely to improve over time.
+-----
 
-The file extension for julia program codes is: [.jl]
+## Introduction
+
+Julia, is a FREE programming language...which can be downloade from here...
+
+https://www.julialang.org/downloads/   
+
+It's very quick and easy to set up to run inside of Window 10 Pro.   
+
+1> You just download the appropriate file: Windows 64 bit installer/-etc.  
+2> Then, you left double click on the set up file after it's finished downloading  
+3> Next, you will be offered 3 options...run Julia/show folder/show docs...I selected all 3 of these.  
+
+...moving over to the black screen DOS window I typed in my first line of Julia code...  
+>> julia>println("Hello, world!")  
+>> julia>Hello, world!
+
+...as simple, straight forwards, and, quick as that! ;-)
+
+Mind you, I'm still a 'beginner' working on learning all of the basics.  
+
+**NOTE:** The file extension for julia program code file is: [.jl]
 
 -----
 
