@@ -102,7 +102,10 @@ Main web site...
 http://www.julialang.org  
 
 Language: FREE download...  
-http://www.julialang.org/downloads  
+http://www.julialang.org/downloads 
+
+Language: Docs (can be downloaded as a [.pdf] to be read offline)  
+https://docs.julialang.org/en/v1/  
 
 Alternative IDE...  
 https://juliacomputing.com/products/juliapro  
