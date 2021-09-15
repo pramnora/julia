@@ -25,6 +25,10 @@ It's very quick and easy to set up to run inside of Window 10 Pro.
 
 Mind you, I'm still a 'beginner' working on learning all of the basics.  
 
+-----
+
+## NOTES
+
 **NOTE(1):** When initially setting up the Julia program...make sure to check include in PATH...;   
              otherwise, Windows will NOT be able to find the program  
              when you try running it through DOS   
