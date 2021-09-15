@@ -23,7 +23,8 @@ It's very quick and easy to set up to run inside of Window 10 Pro.
 
 Mind you, I'm still a 'beginner' working on learning all of the basics.  
 
-**NOTE:** The file extension for julia program code file is: [.jl]
+**NOTE(1):** The file extension for julia program code file is: [.jl]
+**NOTE(2):** At the current date: Wed 15th Sep 2021 I seem to have downloaded Julia version: 1.6.2
 
 -----
 
