@@ -48,7 +48,7 @@ https://juliabox.com/
 
 http://www.repl.it  
 
-### My netlify Julia web page...  
+### My own netlify Julia web page...  
 
 https://pr-julia.netlify.app/  
 
