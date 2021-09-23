@@ -159,5 +159,10 @@ https://www.youtube.com/watch?v=4igzy3bGVkQ
 YouTube: Derek Banas: Julia Tutorial  
 https://www.youtube.com/watch?v=sE67bP2PnOo  
 
+YouTube: How to create Functions in Julia | Tutorial 6 of 13 | Julia for Beginners   
+https://www.youtube.com/watch?v=o4fV5UMVhTQ  
+
+
+
 
 
