@@ -114,6 +114,28 @@ otherwise, DOS *cannot* find where the program file is...in order to run it, eff
 **NOTE:** There was no need to use either print()/or, println() to send output to the console screen;    
           nor was there any need to declare variable types before use...instead, variable typing was, automatically, inferred.   
 
+### Julia functions
+
+#### Example 1
+
+>>jullia> function add(a,b)
+>>          return a+b
+>>       end
+>>add (generic function with 1 method)
+
+>>julia> add(1,2)
+>>3
+
+#### Example 2  
+
+>>julia> function subtract(a,b) = a-b
+>>subtract (generic function with 1 method)
+
+>>julia> subract(1,2)
+>>-1
+
+
+
 -----
 
 ## Links
