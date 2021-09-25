@@ -79,7 +79,7 @@ otherwise, DOS *cannot* find where the program file is...in order to run it, eff
  - is created with mathematical/scientific programming in mind  
  - can do parallelism   
  - uses package manager  
- - can call functions from other languages: C/Python/  
+ - can call functions from other languages: C/Python/Fortran    
  - -etc.   
 
 -----
