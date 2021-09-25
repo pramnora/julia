@@ -134,8 +134,13 @@ otherwise, DOS *cannot* find where the program file is...in order to run it, eff
 >>julia> subract(1,2)  
 >>-1  
 
+#### Example 3: Pre-set argument...    
 
-
+>>julia> function test(x=1)    
+>>test (generic function with 1 method)    
+ 
+>>julia> test()    
+>>1    
 
 -----
 
