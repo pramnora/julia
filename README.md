@@ -144,9 +144,7 @@ otherwise, DOS *cannot* find where the program file is...in order to run it, eff
 >>julia> test()    
 >>1    
 
-**NOTE**: Calling a function with empty arguments...;  
-where the argument value has already been pre-set;     
-results in the pre-set argument value having been printed out.    
+**NOTE**: Calling a function with 'empty' arguments...; where the argument value has already been pre-set: (x=1); will output the pre-set argument value: 1; and, no complaint error message.    
 
 -----
 
