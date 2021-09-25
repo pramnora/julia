@@ -136,7 +136,9 @@ otherwise, DOS *cannot* find where the program file is...in order to run it, eff
 
 #### Example 3: Pre-set argument...    
 
->>julia> function test(x=1)    
+>>julia> function test(x=1)   
+>>         println(x)   
+>>       end    
 >>test (generic function with 1 method)    
  
 >>julia> test()    
