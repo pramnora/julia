@@ -1,4 +1,4 @@
-function printMsg(x)      # single argument
+function printMsg(x)      # single argument list
   println(x)              #  print message
 end
 
