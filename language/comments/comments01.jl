@@ -7,3 +7,5 @@
  a multi-line
  comment...
 =#
+
+println("Hello, world!") # ...this is an inline comment
