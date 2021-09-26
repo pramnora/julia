@@ -1,6 +1,6 @@
-function printMsg(x)
-  println(x)
+function printMsg(x)      # single argument
+  println(x)              #  print message
 end
 
-printMsg("Hello, world!")
+printMsg("Hello, world!") # function call
 
