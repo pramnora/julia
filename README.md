@@ -222,6 +222,9 @@ https://docs.julialang.org/en/v1/
 https://juliaacademy.com/courses/375479/lectures/5815852    
 https://github.com/JuliaAcademy/Introduction-to-Julia  
 
+Derek Bananas Site/Julia Cheat Sheet    
+https://www.newthinktank.com/2018/10/julia-tutorial/  
+
 ### Video Tutorials
 
 YouTube: Julia programming language channel  
