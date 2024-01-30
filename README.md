@@ -7,8 +7,15 @@ Document last modified: *Tue 30 Jan 2024 04:06 PM GMT*
 
 ## Introduction
 
-Julia, is a FREE programming language...which can be downloaded from here...
+Julia, is a FREE programming language.  
 
+Julia is notably...  
+
+- fast 
+- used in Scientific computing circles
+- can connect to a number of external libraries / (though, I myself have never actually done that before...?)   
+- etc.
+  
 -----
 
 ## INSTALLING JULIA ON LINUX MINT
@@ -17,7 +24,7 @@ Julia, is a FREE programming language...which can be downloaded from here...
 
 Go to...  
 - https://julialang.org/downloads/  
-...and, there follow the instructions for your specific OS/Operating System;
+...and, there follow the instructions for your specific OS/Operating System;  
 in this particular case, because I'm running Linux Minx...my instructions were as follows:
 
 >  curl -fsSL https://install.julialang.org | sh
