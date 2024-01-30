@@ -219,6 +219,9 @@ https://pr-julia.netlify.app/
 Main web site online docs...(includes free and downloadable [.pdf] for offline study)...   
 https://docs.julialang.org/en/v1/  
 
+https://juliaacademy.com/courses/375479/lectures/5815852    
+https://github.com/JuliaAcademy/Introduction-to-Julia  
+
 ### Video Tutorials
 
 YouTube: Julia programming language channel  
