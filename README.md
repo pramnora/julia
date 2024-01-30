@@ -1,6 +1,8 @@
 # julia
 Julia code repository
 
+Document last modified: *Tue 30 Jan 2024 04:06 PM GMT*  
+
 -----
 
 ## Introduction
@@ -27,6 +29,23 @@ Mind you, I'm still a 'beginner' working on learning all of the basics.
 
 **NOTE:** Please, carefully, read through the notes below before installing...;    
           for anyone doing a first installation pay special attention to NOTE(1). -Thanks!  
+
+-----
+
+## INSTALLING JULIA ON LINUX MINT
+
+Go to...
+- https://julialang.org/downloads/
+...and, there follow the instructions for your specific OS/Operating System;
+in this particular case, because I'm running Linux Minx...my instructions were as follows:
+
+>  curl -fsSL https://install.julialang.org | sh
+
+...after typing in that line...; some further insructions appeared at the prompt;  
+all of which I carefully carried out...; then, eventually, Julia was installed;  
+by simply typing in:  
+
+> Julia  
 
 -----
 
