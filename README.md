@@ -9,13 +9,15 @@ Document last modified: *Tue 30 Jan 2024 04:06 PM GMT*
 
 Julia, is a FREE programming language.  
 
-Julia is notably...  
+The Julia programming language is designed to...  
 
-- fast 
-- used in Scientific computing circles
-- can connect to a number of external libraries / (though, I myself have never actually done that before...?)   
-- etc.
-  
+ - work as 'fast' as C code  
+ - is created with mathematical/scientific programming in mind  
+ - can do parallelism   
+ - uses package manager  
+ - can call functions from other languages: C/Python/Fortran    
+ - -etc.   
+
 -----
 
 ## INSTALLING JULIA ON LINUX MINT
@@ -102,15 +104,6 @@ otherwise, DOS *cannot* find where the program file is...in order to run it, eff
 ...when you wish to exit from the Julia UI-User Interface...; in order to return back to the DOS prompt, use...  
 >>julia> exit()  
 >>C:\>  
-
-**NOTE(5):** The Julia programming language is designed to...  
-
- - work as 'fast' as C code  
- - is created with mathematical/scientific programming in mind  
- - can do parallelism   
- - uses package manager  
- - can call functions from other languages: C/Python/Fortran    
- - -etc.   
 
 -----
 
