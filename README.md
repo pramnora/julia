@@ -36,6 +36,12 @@ all of which I carefully carried out...; then, eventually, Julia was installed b
 
 > Julia  
 
+**NOTE**: At the current date: *Sun 11 Aug 2024* I went and updated my own version of Julia:  
+
+> juliaup update  
+
+...my current Julia version is, now: **Julia 1.10.4 (2024-06-04) Official https://julialang.org/ release**  
+
 -----
 
 ## INSTALL JULIA ON WINDOWS 10
@@ -104,14 +110,6 @@ otherwise, DOS *cannot* find where the program file is...in order to run it, eff
 ...when you wish to exit from the Julia UI-User Interface...; in order to return back to the DOS prompt, use...  
 >>julia> exit()  
 >>C:\>  
-
-## Linux Mint
-
-At the current date: *Sun 11 Aug 2024* I went and updated my own version of Julia:  
-
-> juliaup update  
-
-...my current Julia version is, now: **Julia 1.10.4 (2024-06-04) Official https://julialang.org/ release**  
 
 -----
 
