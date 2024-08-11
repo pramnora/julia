@@ -38,9 +38,9 @@ end
 
 # ---------------------------------------------------------------------------------
 
-# NOTE(1): It order to try the above code...; 
-#          you do NOT need to type it in starting from scratch every single time;
-#          instead, just use your up key arrow...; until you find the line you want...;
-#          and, then, use your horizontal arrow key to change/edit the line of code;
-#          then, when done use the down arrow key...to go past the 'end' statement;
-#          finally, just press the [ENTER] key to run.
+# NOTE: In order to try the above code...; 
+#       you do NOT need to type it in starting from scratch every single time;
+#       instead, just use your up key arrow...; until you find the line you want...;
+#       and, then, use your horizontal arrow key to change/edit the line of code;
+#       then, when done use the down arrow key...to go past the 'end' statement;
+#       finally, just press the [ENTER] key to run.
