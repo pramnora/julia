@@ -1,7 +1,7 @@
 # julia
 Julia code repository
 
-Document last modified: *Sun 11 Aug 2024 19:40 PM GMT*  
+Document last modified: *Mon 12 Aug 2024 02:48 AM GMT*  
 
 -----
 
@@ -189,56 +189,60 @@ otherwise, DOS *cannot* find where the program file is...in order to run it, eff
 ## Links
 
 Main web site...  
-http://www.julialang.org  
+- http://www.julialang.org  
 
 Language: FREE download...  
-http://www.julialang.org/downloads 
+- http://www.julialang.org/downloads 
 
 Language: Docs (can be downloaded as a [.pdf] to be read offline)  
-https://docs.julialang.org/en/v1/  
+- https://docs.julialang.org/en/v1/  
 
 Alternative IDE...  
-https://juliacomputing.com/products/juliapro  
+- https://juliacomputing.com/products/juliapro  
 
 ### Run Julia code interactively online... 
 
-https://julialang.org/learning/tryjulia/  
+- https://julialang.org/learning/tryjulia/  
 
-https://juliabox.com/  
+-https://juliabox.com/  
 *NOTE*: JuliaBox site is closing down on: 31st May 2020  
 
-http://www.repl.it  
+- http://www.repl.it  
 
 ### My own netlify Julia web page...  
 
-https://pr-julia.netlify.app/  
+- https://pr-julia.netlify.app/  
 
 ### Tutorials
 
 Main web site online docs...(includes free and downloadable [.pdf] for offline study)...   
-https://docs.julialang.org/en/v1/  
+- https://docs.julialang.org/en/v1/  
 
 https://juliaacademy.com/courses/375479/lectures/5815852    
-https://github.com/JuliaAcademy/Introduction-to-Julia  
+- https://github.com/JuliaAcademy/Introduction-to-Julia  
 
 Derek Bananas Site/Julia Cheat Sheet    
-https://www.newthinktank.com/2018/10/julia-tutorial/  
+- https://www.newthinktank.com/2018/10/julia-tutorial/  
 
 ### Video Tutorials
 
 YouTube: Julia programming language channel  
-https://www.youtube.com/user/JuliaLanguage  
+- https://www.youtube.com/user/JuliaLanguage  
 
 YouTube: Introduction to Julia (2017)    
-https://www.youtube.com/watch?v=4igzy3bGVkQ  
+- https://www.youtube.com/watch?v=4igzy3bGVkQ  
+
+Julia in 100 Seconds (Channel: Fireship)  
+- https://www.youtube.com/watch?v=JYs_94znYy0    
 
 YouTube: Derek Banas: Julia Tutorial  
-https://www.youtube.com/watch?v=sE67bP2PnOo  
+- https://www.youtube.com/watch?v=sE67bP2PnOo  
 
 YouTube: How to create Functions in Julia | Tutorial 6 of 13 | Julia for Beginners   
 https://www.youtube.com/watch?v=o4fV5UMVhTQ  
 
-
+Julia Tutorial Part 1 | Installing Julia, Environment set-up and first programme (Channel: Digital Manor)  
+- https://www.youtube.com/watch?v=45lm7O1ODS8  
 
 
 
