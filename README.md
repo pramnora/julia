@@ -226,7 +226,8 @@ Derek Bananas Site/Julia Cheat Sheet
 
 Datacamp  
 - https://www.datacamp.com  
-- https://www.datacamp.com/tutorial/julia-programming-tutorial-for-beginners  
+- https://www.datacamp.com/tutorial/julia-programming-tutorial-for-beginners
+- https://app.datacamp.com/learn/courses/introduction-to-julia  
 
 ### Video Tutorials
 
