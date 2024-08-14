@@ -1,7 +1,7 @@
 # julia
 Julia code repository
 
-Document last modified: *Mon 12 Aug 2024 02:48 AM GMT*  
+Document last modified: *Wed 14 Aug 2024 22:55 PM GMT*  
 
 -----
 
@@ -223,6 +223,10 @@ https://juliaacademy.com/courses/375479/lectures/5815852
 
 Derek Bananas Site/Julia Cheat Sheet    
 - https://www.newthinktank.com/2018/10/julia-tutorial/  
+
+Datacamp  
+- https://www.datacamp.com  
+- https://www.datacamp.com/tutorial/julia-programming-tutorial-for-beginners  
 
 ### Video Tutorials
 
