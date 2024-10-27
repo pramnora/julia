@@ -232,7 +232,10 @@ Datacamp
 ### Video Tutorials
 
 Learn Julia in 4 hours in 4K | Full Course | Julia for Absolute Beginners | doggo dot jl  
-- https://www.youtube.com/watch?v=KlorfxsdWDw   
+- https://www.youtube.com/watch?v=KlorfxsdWDw
+
+Is this course for me? Julia Programming For Nervous Beginners (Week 1 Lesson 0) | The Julia Programming Language      
+- https://www.youtube.com/watch?v=ub3tqCWZmo4&t=1s  
 
 YouTube: Julia programming language channel  
 - https://www.youtube.com/user/JuliaLanguage  
