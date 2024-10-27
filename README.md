@@ -1,7 +1,7 @@
 # julia
 Julia code repository
 
-Document last modified: *Wed 14 Aug 2024 22:55 PM GMT*  
+Document last modified: *Sun 27 Aug 2024 17:07 PM GMT*  
 
 -----
 
@@ -230,6 +230,9 @@ Datacamp
 - https://app.datacamp.com/learn/courses/introduction-to-julia  
 
 ### Video Tutorials
+
+Learn Julia in 4 hours in 4K | Full Course | Julia for Absolute Beginners | doggo dot jl  
+- https://www.youtube.com/watch?v=KlorfxsdWDw   
 
 YouTube: Julia programming language channel  
 - https://www.youtube.com/user/JuliaLanguage  
