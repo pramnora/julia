@@ -31,6 +31,7 @@ So, first, let's open Linux *text editor* program called: Nano;
 and, at the same time pass in the name of the file we wish to create: nano hw1.jl    
 ![Open Linux text editor: nano hw1.jl](pictures/090726-1401-open-nano-hw1.png "Open Linux text editor: nano hw1.jl")         
 You will see a *blank* Nano text editor screen appear...;  ready for typing in your program text.    
+![Open Linux text editor/opened: nano hw1.jl](pictures/090726-1402-nano-opened-hw1.png "Open Linux text editor: nano hw1.jl/opened")          
 **NOTE**: The program file name being listed at the top inside of the Windows Title Bar as: hw1.jl   
 Type into Nano text editor the following source code:  
 ![Linux text editor: Nano, opened](pictures/090726-1314-nano-opened.png "Linux text editor: Nano, opened")  
