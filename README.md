@@ -9,7 +9,7 @@ Currently, my operating system is:
 ...and, the version of Julia I'm using is:    
 1.12.6    
 
-[!]( "")  
+[!Julia version](pictures/090726-1122-julia-version.png "Julia version")  
 
 -----
 
