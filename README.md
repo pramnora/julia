@@ -1,15 +1,15 @@
 # julia
 Julia code repository
 
-Document last modified:   
-*Thu 9 Jul 2024 11:20 AM GMT*   
-
 Currently, my operating system is:    
 *Linux Mint OS 22.3*  
 ...and, the version of Julia I'm using is:    
 1.12.6    
 
 ![Julia version](pictures/090726-1122-julia-version.png "Julia version")  
+
+Document last modified:   
+*Thu 9 Jul 2024 11:20 AM GMT*   
 
 -----
 
