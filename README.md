@@ -6,7 +6,7 @@ Currently, my operating system is:
 ...and, the version of Julia I'm using is:    
 1.12.6    
 
-![Julia version](pictures/090726-1122-julia-version.png "Julia version")  
+![OS/Julia version](pictures/090726-1137-os-julia-version.png "OS/Julia version")  
 
 Document last modified:   
 *Thu 9 Jul 2024 11:20 AM GMT*   
