@@ -10,10 +10,15 @@ And, this is what the start up screen looks like.../(as well as, how to exit...)
 This is what the standard Julia, 'Hello, world!', program looks like:   
 ![Julia: hw1](pictures/090726-1253-hw1.png "Julia: hw1")  
 ...when being seen running inside of the **REPL**/**R**ead **E**val **P**rint **L**oop interpreter program.  
-
+Another way to run Julia files is to write it as a program...inside of a *text editor* program/save the *source code*/and, then, run it.  
+So, first, let's open Linux *text editor* program called: Nano.  
+![Open Linux text editor: Nano](pictures/090726-1302-open-nano-text-editor.png "Open Linux text editor: Nano")    
+You will see a blank screen...ready for typing your program text/also, called *source code* into.   
+Type in the following codes:  
+![Linux text editor: Nano, opened](pictures/090726-1314-nano-opened.png "Linux text editor: Nano, opened")  
 
 Document last modified:   
-*Thu 9 Jul 2024 12:59 PM GMT*   
+*Thu 9 Jul 2024 13:22 PM GMT*   
 
 -----
 
