@@ -27,7 +27,8 @@ We use a special piece of software called a *text editor* to write our Julia pro
    b. Julia program files are saved using filename extension: [.jl]    
 3. Finally, we *run* the program...to make the program *source codes* execute.    
 
-So, first, let's open Linux *text editor* program called: Nano.  
+So, first, let's open Linux *text editor* program called: Nano;    
+and, at the same time pass in the name of the file we wish to create: nano hw1.jl    
 ![Open Linux text editor: Nano](pictures/090726-1302-open-nano-text-editor.png "Open Linux text editor: Nano")       
 You will see a *blank* Nano text editor screen appear...ready for typing in your program text.  
 Type in the following codes:  
