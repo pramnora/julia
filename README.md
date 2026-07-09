@@ -19,7 +19,10 @@ We use a special piece of software called a *text editor* to write our Julia pro
 **NOTE**: The technical term for program codes is called: *source code*.  
 
 1. First, we *write* the computer program into our **text editor** software.    
-2. Next, we *save* the computer program *source codes*.   
+2. Next, we *save* the computer program file by giving it a name/plus, filename.extension: hw1.jl  
+   **NOTE**:  
+   a. The file name: hw1, can be any name you please.  
+   b. Julia program files are saved using filename extension: [.jl]    
 3. Finally, we *run* the program...to make the program *source codes* execute.    
 
 So, first, let's open Linux *text editor* program called: Nano.  
