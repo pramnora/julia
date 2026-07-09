@@ -34,7 +34,8 @@ You will see a *blank* Nano text editor screen appear...;  ready for typing in y
 ![Open Linux text editor/opened: nano hw1.jl](pictures/090726-1402-nano-opened-hw1.png "Open Linux text editor: nano hw1.jl/opened")          
 **NOTE**: The program file name being listed at the top inside of the Windows Title Bar as: hw1.jl   
 Type into Nano text editor the following source code:  
-![Linux text editor, Nano: hw1.jl source code](pictures/090726-1311-println-print.png "Linux text editor, Nano: hw1.jl source code")  
+![Linux text editor, Nano: hw1.jl source code](pictures/090726-1419-hw1-sc.png "Linux text editor, Nano: hw1.jl source code")  
+
 
 Document last modified:   
 *Thu 9 Jul 2024 14:13 PM GMT*   
