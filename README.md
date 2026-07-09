@@ -11,12 +11,14 @@ This is what the standard Julia, 'Hello, world!', program looks like:
 ![Julia: hw1](pictures/090726-1253-hw1.png "Julia: hw1")  
 ...when being seen running inside of the **REPL**/**R**ead **E**val **P**rint **L**oop interpreter program.    
 
-**NOTE**: The REPL interprets Julia source code...; and, runs it going just *one* single line at a time.     
-If we wish to run *multiple lines* of Julia program source code, all together at once;    
-then, we have to save the file as being a computer program, instead.   
+The REPL interprets Julia source code...; and, runs it going just *one* single line at a time.       
+**NOTE**: The technical term for program codes is called: *source code*.  
+
+But, what if we wish to run *multiple lines* of Julia program source code, all together at once;      
+then, we have to save our source code as a computer program file;     
+this program file stores multiple lines of Julia source code.     
 
 We use a special piece of software called a *text editor* to write our Julia programs.          
-**NOTE**: The technical term for program codes is called: *source code*.  
 
 1. First, we *write* the computer program into our **text editor** software.    
 2. Next, we *save* the computer program file by giving it a name/plus, filename.extension: hw1.jl  
