@@ -2,7 +2,14 @@
 Julia code repository
 
 Document last modified:   
-*Sun 27 Aug 2024 17:07 PM GMT*   
+*Thu 9 Jul 2024 11:20 AM GMT*   
+
+Currently, my operating system is:    
+*Linux Mint OS 22.3*  
+...and, the version of Julia I'm using is:    
+1.12.6    
+
+[!]( "")  
 
 -----
 
