@@ -8,11 +8,11 @@ The version of Julia I'm using is: Julia 1.12.6
 And, this is what the start up screen looks like.../(as well as, how to exit...)     
 ![Julia](pictures/090726-1217-julia.png "OS/Julia")  
 This is what the Juila standard, 'Hello, world!' program looks like:   
-![Julia: hw](pictures/090726-1246-hw.png "Julia: hw")  
+![Julia: hw](pictures/090726-1253-hw.png "Julia: hw")  
 
 
 Document last modified:   
-*Thu 9 Jul 2024 12:49 PM GMT*   
+*Thu 9 Jul 2024 12:54 PM GMT*   
 
 -----
 
