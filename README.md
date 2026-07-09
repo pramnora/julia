@@ -34,9 +34,9 @@ You will see a *blank* Nano text editor screen appear...;  ready for typing in y
 ![Open Linux text editor/opened: nano hw1.jl](pictures/090726-1402-nano-opened-hw1.png "Open Linux text editor: nano hw1.jl/opened")          
 **NOTE**: The program file name being listed at the top inside of the Windows Title Bar as: hw1.jl   
 Type into Nano text editor the following source code:  
-![Linux text editor, Nano: hw1.jl source code](pictures/090726-1419-hw1-sc.png "Linux text editor, Nano: hw1.jl source code")  
+![Linux text editor, Nano: hw1.jl source code](pictures/090726-1516-hw1-sc.png "Linux text editor, Nano: hw1.jl source code")  
 When we run the Julia program...we get the following output:    
-![Linux text editor, Nano: hw1.jl output](pictures/090726-1418-hw1-o.png "Linux text editor, Nano: hw1.jl output")  
+![Linux text editor, Nano: hw1.jl output](pictures/090726-1517-hw1-o.png "Linux text editor, Nano: hw1.jl output")  
 
 
 Document last modified:   
