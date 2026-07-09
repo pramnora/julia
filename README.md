@@ -1,7 +1,8 @@
 # julia
 Julia code repository
 
-Document last modified: *Sun 27 Aug 2024 17:07 PM GMT*  
+Document last modified:   
+*Sun 27 Aug 2024 17:07 PM GMT*   
 
 -----
 
