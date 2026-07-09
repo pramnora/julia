@@ -15,8 +15,8 @@ This is what the standard Julia, 'Hello, world!', program looks like:
 If we wish to run *multiple lines* of Julia program source code, all together at once;    
 then, we have to save the file as being a computer program, instead.   
 
-We use a special piece of software called a *text editor* to write our Julia programs;        
-the technical term for program codes is called: *source code*.  
+We use a special piece of software called a *text editor* to write our Julia programs.          
+**NOTE**: The technical term for program codes is called: *source code*.  
 
 1. First, we *write* the computer program into our **text editor** software.    
 2. Next, we *save* the computer program *source codes*.   
