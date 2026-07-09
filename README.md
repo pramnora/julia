@@ -9,10 +9,11 @@ And, this is what the start up screen looks like.../(as well as, how to exit...)
 ![Julia](pictures/090726-1217-julia.png "OS/Julia")  
 This is what the standard Julia, 'Hello, world!', program looks like:   
 ![Julia: hw1](pictures/090726-1253-hw1.png "Julia: hw1")  
+...when being seen running inside of the REPL/Read Eval Print Loop interpreter program. 
 
 
 Document last modified:   
-*Thu 9 Jul 2024 12:54 PM GMT*   
+*Thu 9 Jul 2024 12:57 PM GMT*   
 
 -----
 
