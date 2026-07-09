@@ -21,7 +21,7 @@ this program file stores multiple lines of Julia source code.
 We use a special piece of software called a *text editor* to write our Julia programs.          
 
 1. First, we *write* the computer program into our **text editor** software.    
-2. Next, we *save* the computer program file by giving it a name/plus, filename.extension: hw1.jl  
+2. Next, we *save* the computer program file by giving it both a *filename*/plus, *.extension*: hw1.jl  
    **NOTE**:  
    a. The file name: hw1, can be any name you please.  
    b. Julia program files are saved using filename extension: [.jl]    
