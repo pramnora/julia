@@ -1,15 +1,15 @@
 # julia
 Julia code repository
 
-Currently, my operating system is:    
-*Linux Mint OS 22.3*  
-...and, the version of Julia I'm using is:    
-1.12.6    
-
-![OS/Julia version](pictures/090726-1137-os-julia-version.png "OS/Julia version")  
+As of the current date: *090726*; my operating system is: Linux Mint OS 22.3    
+![Date/OS](pictures/090726-1219-date-os.png "Date/OS")    
+The version of Julia I'm using is: Julia 1.12.6  
+![Julia version](pictures/090726-1122-julia-version.png "OS/Julia version")    
+And, this is what the start up screen looks like.../(as well as, how to exit...)     
+![Julia](pictures/090726-1217-julia.png "OS/Julia")  
 
 Document last modified:   
-*Thu 9 Jul 2024 11:20 AM GMT*   
+*Thu 9 Jul 2024 12:33 PM GMT*   
 
 -----
 
