@@ -7,9 +7,12 @@ The version of Julia I'm using is: Julia 1.12.6
 ![Julia version](pictures/090726-1122-julia-version.png "OS/Julia version")    
 And, this is what the start up screen looks like.../(as well as, how to exit...)     
 ![Julia](pictures/090726-1217-julia.png "OS/Julia")  
+This is what the Juila standard, 'Hello, world!' program looks like:   
+![Julia: hw](pictures/090726-1246-hw.png "Julia: hw")  
+
 
 Document last modified:   
-*Thu 9 Jul 2024 12:33 PM GMT*   
+*Thu 9 Jul 2024 12:49 PM GMT*   
 
 -----
 
